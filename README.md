@@ -45,10 +45,3 @@ Before pushing your code (the `public` folder) for production, run the below com
 NOTE: If you are using Windows and face an error `NODE ENV not recognised`, run the below command
 
      npm install win-node-env
-
-
-## Credit
-
-Starter kit cloned from ThiriusOfficial.
-
-https://github.com/ThirusOfficial
