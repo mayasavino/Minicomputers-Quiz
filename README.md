@@ -22,7 +22,7 @@
 
         npm run build
 
-7.  Open the `public > index.html` file in your browser (I used VScode's LiveHost extension).
+7.  Open the `public > index.html` file in your browser.
 
 ## Editing
 
